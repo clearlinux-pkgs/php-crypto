@@ -4,7 +4,7 @@
 #
 Name     : php-crypto
 Version  : 0.3.2
-Release  : 13
+Release  : 14
 URL      : https://pecl.php.net/get/crypto-0.3.2.tgz
 Source0  : https://pecl.php.net/get/crypto-0.3.2.tgz
 Summary  : No detailed summary available
@@ -47,4 +47,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20200930/crypto.so
+/usr/lib64/extensions/no-debug-non-zts-20210902/crypto.so
