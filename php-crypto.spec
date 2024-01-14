@@ -7,7 +7,7 @@
 #
 Name     : php-crypto
 Version  : 0.3.2
-Release  : 52
+Release  : 53
 URL      : https://pecl.php.net/get/crypto-0.3.2.tgz
 Source0  : https://pecl.php.net/get/crypto-0.3.2.tgz
 Summary  : No detailed summary available
